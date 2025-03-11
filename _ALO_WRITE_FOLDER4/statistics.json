@@ -1,0 +1,50 @@
+{
+  "Mediatech Web App - HTTP Request 1" : {
+    "transaction" : "Mediatech Web App - HTTP Request 1",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 266.5,
+    "medianResTime" : 216.0,
+    "minResTime" : 161.0,
+    "maxResTime" : 676.0,
+    "pct1ResTime" : 644.9000000000001,
+    "pct2ResTime" : 676.0,
+    "pct3ResTime" : 676.0,
+    "throughput" : 5.790387955993052,
+    "receivedKBytesPerSec" : 2.013064562825709,
+    "sentKBytesPerSec" : 0.9047481181239142
+  },
+  "Mediatech Web App - HTTP Request 2" : {
+    "transaction" : "Mediatech Web App - HTTP Request 2",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 234.2,
+    "medianResTime" : 116.0,
+    "minResTime" : 80.0,
+    "maxResTime" : 1307.0,
+    "pct1ResTime" : 1193.9000000000005,
+    "pct2ResTime" : 1307.0,
+    "pct3ResTime" : 1307.0,
+    "throughput" : 3.750937734433608,
+    "receivedKBytesPerSec" : 1.3040369467366841,
+    "sentKBytesPerSec" : 0.5860840210052514
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 20,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 250.35,
+    "medianResTime" : 172.5,
+    "minResTime" : 80.0,
+    "maxResTime" : 1307.0,
+    "pct1ResTime" : 644.9000000000007,
+    "pct2ResTime" : 1275.4499999999996,
+    "pct3ResTime" : 1307.0,
+    "throughput" : 6.587615283267457,
+    "receivedKBytesPerSec" : 2.2902256258234517,
+    "sentKBytesPerSec" : 1.0293148880105403
+  }
+}

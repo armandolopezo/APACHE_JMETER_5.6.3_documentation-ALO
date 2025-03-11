@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1741661071023,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-1,text,false,,1159,0,1,2,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071034,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-1,text,false,,1159,0,1,2,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071052,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-1,text,false,,1159,0,1,2,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071054,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-1,text,false,,1159,0,1,2,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071074,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-2,text,false,,1159,0,1,2,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071075,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-2,text,false,,1159,0,1,2,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071076,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-2,text,false,,1159,0,1,2,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071077,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-2,text,false,,1159,0,1,2,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071274,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-3,text,false,,1159,0,1,3,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071275,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-3,text,false,,1159,0,1,3,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071276,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-3,text,false,,1159,0,1,3,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071278,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-3,text,false,,1159,0,1,3,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071472,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-4,text,false,,1159,0,1,4,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071473,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-4,text,false,,1159,0,1,4,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071474,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-4,text,false,,1159,0,1,4,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071474,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-4,text,false,,1159,0,1,4,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071687,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-5,text,false,,1159,0,1,5,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071694,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-5,text,false,,1159,0,1,5,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071695,0,Mediatech Web App - HTTP Request 1,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-5,text,false,,1159,0,1,5,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071696,0,Mediatech Web App - HTTP Request 2,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 7: http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,Mediatech Azure App Service WEB APP 2-5,text,false,,1159,0,1,5,http:// mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,0,0,0
+1741661071702,524,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-5,text,true,,22304,244,5,5,https://jmeter.apache.org/,74,0,38
+1741661071702,74,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-5,,true,,328,122,5,5,http://jmeter.apache.org/,74,0,38
+1741661071777,449,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-5,text,true,,21976,122,5,5,https://jmeter.apache.org/,421,0,382
+1741661071282,978,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-3,text,true,,22304,244,5,5,https://jmeter.apache.org/,77,0,41
+1741661071282,77,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-3,,true,,328,122,5,5,http://jmeter.apache.org/,77,0,41
+1741661071361,899,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-3,text,true,,21976,122,5,5,https://jmeter.apache.org/,831,0,792
+1741661071482,782,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-4,text,true,,22304,244,5,5,https://jmeter.apache.org/,70,0,35
+1741661071482,70,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-4,,true,,328,122,5,5,http://jmeter.apache.org/,70,0,35
+1741661071553,711,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-4,text,true,,21976,122,5,5,https://jmeter.apache.org/,659,0,620
+1741661071088,1181,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-2,text,true,,22304,244,5,5,https://jmeter.apache.org/,173,0,137
+1741661071088,180,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-2,,true,,328,122,5,5,http://jmeter.apache.org/,173,0,137
+1741661071271,998,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-2,text,true,,21976,122,5,5,https://jmeter.apache.org/,936,0,893
+1741661071011,1284,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-1,text,true,,22304,244,5,5,https://jmeter.apache.org/,250,0,172
+1741661071011,257,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-1,,true,,328,122,5,5,http://jmeter.apache.org/,250,0,172
+1741661071271,1024,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-1,text,true,,21976,122,5,5,https://jmeter.apache.org/,945,0,908
+1741661072229,149,CHANGES - HTTP Request,200,OK,Jmeter Users 1-5,text,true,,32286,268,5,5,https://jmeter.apache.org/changes.html,80,0,40
+1741661072229,80,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-5,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,80,0,40
+1741661072310,68,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-5,text,true,,31946,134,5,5,https://jmeter.apache.org/changes.html,40,0,0
+1741661072266,140,CHANGES - HTTP Request,200,OK,Jmeter Users 1-4,text,true,,32286,268,5,5,https://jmeter.apache.org/changes.html,71,0,36
+1741661072266,71,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-4,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,71,0,36
+1741661072338,68,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-4,text,true,,31946,134,5,5,https://jmeter.apache.org/changes.html,50,0,0
+1741661072270,139,CHANGES - HTTP Request,200,OK,Jmeter Users 1-2,text,true,,32286,268,5,5,https://jmeter.apache.org/changes.html,72,0,34
+1741661072270,72,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-2,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,72,0,34
+1741661072342,67,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-2,text,true,,31946,134,5,5,https://jmeter.apache.org/changes.html,43,0,0
+1741661072261,151,CHANGES - HTTP Request,200,OK,Jmeter Users 1-3,text,true,,32286,268,5,5,https://jmeter.apache.org/changes.html,80,0,40
+1741661072261,80,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-3,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,80,0,40
+1741661072341,71,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-3,text,true,,31946,134,5,5,https://jmeter.apache.org/changes.html,45,0,0
+1741661072297,162,CHANGES - HTTP Request,200,OK,Jmeter Users 1-1,text,true,,32286,268,5,5,https://jmeter.apache.org/changes.html,86,0,32
+1741661072297,86,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-1,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,86,0,32
+1741661072383,76,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-1,text,true,,31946,134,5,5,https://jmeter.apache.org/changes.html,45,0,0
+1741661072382,223,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-5,text,true,,22304,244,5,5,https://jmeter.apache.org/,71,0,36
+1741661072382,71,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-5,,true,,328,122,5,5,http://jmeter.apache.org/,71,0,36
+1741661072454,151,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-5,text,true,,21976,122,5,5,https://jmeter.apache.org/,150,0,88
+1741661072409,231,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-4,text,true,,22304,244,5,5,https://jmeter.apache.org/,78,0,35
+1741661072409,78,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-4,,true,,328,122,5,5,http://jmeter.apache.org/,78,0,35
+1741661072488,152,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-4,text,true,,21976,122,5,5,https://jmeter.apache.org/,147,0,94
+1741661072414,236,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-3,text,true,,22304,244,5,5,https://jmeter.apache.org/,73,0,38
+1741661072414,73,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-3,,true,,328,122,5,5,http://jmeter.apache.org/,73,0,38
+1741661072488,162,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-3,text,true,,21976,122,5,5,https://jmeter.apache.org/,153,0,107
+1741661072412,241,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-2,text,true,,22305,244,5,5,https://jmeter.apache.org/,67,0,33
+1741661072412,67,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-2,,true,,328,122,5,5,http://jmeter.apache.org/,67,0,33
+1741661072479,174,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-2,text,true,,21977,122,5,5,https://jmeter.apache.org/,164,0,122
+1741661072461,216,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-1,text,true,,22304,244,5,5,https://jmeter.apache.org/,70,0,33
+1741661072461,70,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-1,,true,,328,122,5,5,http://jmeter.apache.org/,70,0,33
+1741661072531,146,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-1,text,true,,21976,122,5,5,https://jmeter.apache.org/,142,0,104
+1741661072607,143,CHANGES - HTTP Request,200,OK,Jmeter Users 1-5,text,true,,32286,268,5,5,https://jmeter.apache.org/changes.html,83,0,43
+1741661072607,83,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-5,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,83,0,43
+1741661072690,60,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-5,text,true,,31946,134,5,5,https://jmeter.apache.org/changes.html,53,0,0
+1741661072661,122,CHANGES - HTTP Request,200,OK,Jmeter Users 1-4,text,true,,32286,268,4,4,https://jmeter.apache.org/changes.html,73,0,39
+1741661072661,73,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-4,,true,,340,134,4,4,http://jmeter.apache.org/changes.html,73,0,39
+1741661072734,49,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-4,text,true,,31946,134,4,4,https://jmeter.apache.org/changes.html,38,0,0
+1741661072666,146,CHANGES - HTTP Request,200,OK,Jmeter Users 1-3,text,true,,32286,268,3,3,https://jmeter.apache.org/changes.html,82,0,34
+1741661072666,82,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-3,,true,,340,134,3,3,http://jmeter.apache.org/changes.html,82,0,34
+1741661072748,64,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-3,text,true,,31946,134,3,3,https://jmeter.apache.org/changes.html,41,0,0
+1741661072680,135,CHANGES - HTTP Request,200,OK,Jmeter Users 1-1,text,true,,32286,268,2,2,https://jmeter.apache.org/changes.html,70,0,34
+1741661072680,70,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-1,,true,,340,134,2,2,http://jmeter.apache.org/changes.html,70,0,34
+1741661072750,65,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-1,text,true,,31946,134,2,2,https://jmeter.apache.org/changes.html,42,0,0
+1741661072669,152,CHANGES - HTTP Request,200,OK,Jmeter Users 1-2,text,true,,32286,268,1,1,https://jmeter.apache.org/changes.html,80,0,37
+1741661072669,80,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-2,,true,,340,134,1,1,http://jmeter.apache.org/changes.html,80,0,37
+1741661072749,72,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-2,text,true,,31946,134,1,1,https://jmeter.apache.org/changes.html,43,0,0

@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1741663059383,365,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-1,text,true,,356,160,3,3,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,357,0,213
+1741663059472,279,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-2,text,true,,356,160,3,3,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,275,0,121
+1741663059755,123,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-2,text,true,,356,160,4,4,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,123,0,0
+1741663059753,126,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-1,text,true,,356,160,4,4,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,126,0,0
+1741663059672,212,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-3,text,true,,356,160,4,4,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,212,0,83
+1741663059885,143,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-3,text,true,,356,160,4,4,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,143,0,0
+1741663059868,172,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-4,text,true,,356,160,4,4,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,172,0,76
+1741663059892,161,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-2,text,true,,356,160,4,4,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,161,0,78
+1741663059891,222,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-1,text,true,,356,160,5,5,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,222,0,79
+1741663060041,91,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-4,text,true,,356,160,5,5,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,91,0,0
+1741663060054,80,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-2,text,true,,356,160,5,5,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,80,0,0
+1741663060114,109,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-1,text,true,,356,160,4,4,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,109,0,0
+1741663060030,220,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-3,text,true,,356,160,3,3,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,220,0,76
+1741663060071,185,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-5,text,true,,356,160,3,3,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,185,0,81
+1741663060133,173,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-4,text,true,,356,160,3,3,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,173,0,75
+1741663060251,87,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-3,text,true,,356,160,3,3,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,86,0,0
+1741663060306,100,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-4,text,true,,356,160,2,2,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,100,0,0
+1741663060257,176,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-5,text,true,,356,160,1,1,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,176,0,0
+1741663060434,676,Mediatech Web App - HTTP Request 1,200,OK,Mediatech Azure App Service WEB APP 1-5,text,true,,356,160,1,1,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,676,0,77
+1741663061112,1307,Mediatech Web App - HTTP Request 2,200,OK,Mediatech Azure App Service WEB APP 1-5,text,true,,356,160,1,1,http://mediatech-c0h7bjatg8bwb2ex.eastus2-01.azurewebsites.net/,1307,0,0
