@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1741656761636,2189,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-2,text,true,,22305,244,5,5,https://jmeter.apache.org/,177,0,113
+1741656761636,191,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-2,,true,,328,122,5,5,http://jmeter.apache.org/,177,0,113
+1741656761831,1994,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-2,text,true,,21977,122,5,5,https://jmeter.apache.org/,1987,0,1410
+1741656761837,1996,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-3,text,true,,22305,244,5,5,https://jmeter.apache.org/,70,0,36
+1741656761837,70,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-3,,true,,328,122,5,5,http://jmeter.apache.org/,70,0,36
+1741656761909,1924,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-3,text,true,,21977,122,5,5,https://jmeter.apache.org/,1895,0,1337
+1741656761584,2255,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-1,text,true,,22305,244,5,5,https://jmeter.apache.org/,232,0,170
+1741656761584,245,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-1,,true,,328,122,5,5,http://jmeter.apache.org/,232,0,170
+1741656761847,1992,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-1,text,true,,21977,122,5,5,https://jmeter.apache.org/,1964,0,1395
+1741656762232,1641,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-5,text,true,,22305,244,5,5,https://jmeter.apache.org/,72,0,36
+1741656762232,72,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-5,,true,,328,122,5,5,http://jmeter.apache.org/,72,0,36
+1741656762306,1567,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-5,text,true,,21977,122,5,5,https://jmeter.apache.org/,1504,0,942
+1741656762038,1854,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-4,text,true,,22305,244,5,5,https://jmeter.apache.org/,93,0,55
+1741656762038,93,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-4,,true,,328,122,5,5,http://jmeter.apache.org/,93,0,55
+1741656762132,1760,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-4,text,true,,21977,122,5,5,https://jmeter.apache.org/,1677,0,1111
+1741656763830,330,CHANGES - HTTP Request,200,OK,Jmeter Users 1-2,text,true,,32286,268,5,5,https://jmeter.apache.org/changes.html,74,0,38
+1741656763841,319,CHANGES - HTTP Request,200,OK,Jmeter Users 1-1,text,true,,32285,268,5,5,https://jmeter.apache.org/changes.html,74,0,36
+1741656763830,74,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-2,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,74,0,38
+1741656763904,256,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-2,text,true,,31946,134,5,5,https://jmeter.apache.org/changes.html,233,0,0
+1741656763841,74,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-1,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,74,0,36
+1741656763915,245,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-1,text,true,,31945,134,5,5,https://jmeter.apache.org/changes.html,223,0,0
+1741656763874,290,CHANGES - HTTP Request,200,OK,Jmeter Users 1-5,text,true,,32285,268,5,5,https://jmeter.apache.org/changes.html,76,0,37
+1741656763874,76,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-5,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,76,0,37
+1741656763950,214,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-5,text,true,,31945,134,5,5,https://jmeter.apache.org/changes.html,188,0,0
+1741656763835,324,CHANGES - HTTP Request,200,OK,Jmeter Users 1-3,text,true,,32285,268,5,5,https://jmeter.apache.org/changes.html,78,0,36
+1741656763835,78,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-3,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,78,0,36
+1741656763914,245,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-3,text,true,,31945,134,5,5,https://jmeter.apache.org/changes.html,223,0,0
+1741656763894,282,CHANGES - HTTP Request,200,OK,Jmeter Users 1-4,text,true,,32285,268,5,5,https://jmeter.apache.org/changes.html,71,0,37
+1741656763894,71,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-4,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,71,0,37
+1741656763965,211,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-4,text,true,,31945,134,5,5,https://jmeter.apache.org/changes.html,174,0,0
+1741656764164,208,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-2,text,true,,22303,244,5,5,https://jmeter.apache.org/,66,0,32
+1741656764164,66,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-2,,true,,328,122,5,5,http://jmeter.apache.org/,66,0,32
+1741656764230,142,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-2,text,true,,21975,122,5,5,https://jmeter.apache.org/,141,0,89
+1741656764172,204,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-1,text,true,,22303,244,5,5,https://jmeter.apache.org/,70,0,35
+1741656764172,70,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-1,,true,,328,122,5,5,http://jmeter.apache.org/,70,0,35
+1741656764242,134,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-1,text,true,,21975,122,5,5,https://jmeter.apache.org/,132,0,87
+1741656764173,226,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-5,text,true,,22303,244,5,5,https://jmeter.apache.org/,71,0,34
+1741656764173,71,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-5,,true,,328,122,5,5,http://jmeter.apache.org/,71,0,34
+1741656764244,155,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-5,text,true,,21975,122,5,5,https://jmeter.apache.org/,142,0,98
+1741656764170,232,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-3,text,true,,22303,244,5,5,https://jmeter.apache.org/,71,0,33
+1741656764170,71,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-3,,true,,328,122,5,5,http://jmeter.apache.org/,71,0,33
+1741656764241,161,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-3,text,true,,21975,122,5,5,https://jmeter.apache.org/,160,0,113
+1741656764177,236,HOME PAGE - HTTP REQUEST,200,OK,Jmeter Users 1-4,text,true,,22303,244,5,5,https://jmeter.apache.org/,75,0,34
+1741656764177,75,HOME PAGE - HTTP REQUEST-0,301,Moved Permanently,Jmeter Users 1-4,,true,,328,122,5,5,http://jmeter.apache.org/,75,0,34
+1741656764253,160,HOME PAGE - HTTP REQUEST-1,200,OK,Jmeter Users 1-4,text,true,,21975,122,5,5,https://jmeter.apache.org/,153,0,114
+1741656764373,142,CHANGES - HTTP Request,200,OK,Jmeter Users 1-2,text,true,,32283,268,5,5,https://jmeter.apache.org/changes.html,84,0,41
+1741656764373,84,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-2,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,84,0,41
+1741656764458,57,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-2,text,true,,31943,134,5,5,https://jmeter.apache.org/changes.html,47,0,0
+1741656764376,141,CHANGES - HTTP Request,200,OK,Jmeter Users 1-1,text,true,,32283,268,5,5,https://jmeter.apache.org/changes.html,74,0,38
+1741656764376,74,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-1,,true,,340,134,5,5,http://jmeter.apache.org/changes.html,74,0,38
+1741656764452,65,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-1,text,true,,31943,134,5,5,https://jmeter.apache.org/changes.html,39,0,0
+1741656764401,127,CHANGES - HTTP Request,200,OK,Jmeter Users 1-5,text,true,,32283,268,3,3,https://jmeter.apache.org/changes.html,73,0,36
+1741656764401,73,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-5,,true,,340,134,3,3,http://jmeter.apache.org/changes.html,73,0,36
+1741656764474,54,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-5,text,true,,31943,134,3,3,https://jmeter.apache.org/changes.html,46,0,0
+1741656764402,136,CHANGES - HTTP Request,200,OK,Jmeter Users 1-3,text,true,,32283,268,2,2,https://jmeter.apache.org/changes.html,71,0,35
+1741656764402,71,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-3,,true,,340,134,2,2,http://jmeter.apache.org/changes.html,71,0,35
+1741656764473,65,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-3,text,true,,31943,134,2,2,https://jmeter.apache.org/changes.html,52,0,0
+1741656764416,131,CHANGES - HTTP Request,200,OK,Jmeter Users 1-4,text,true,,32283,268,1,1,https://jmeter.apache.org/changes.html,71,0,34
+1741656764416,71,CHANGES - HTTP Request-0,301,Moved Permanently,Jmeter Users 1-4,,true,,340,134,1,1,http://jmeter.apache.org/changes.html,71,0,34
+1741656764487,60,CHANGES - HTTP Request-1,200,OK,Jmeter Users 1-4,text,true,,31943,134,1,1,https://jmeter.apache.org/changes.html,56,0,0

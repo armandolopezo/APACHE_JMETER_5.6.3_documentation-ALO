@@ -1,0 +1,19 @@
+10-3-2025
+alo
+
+.\jmeter -n -t .\_ALO_Test_Plan.jmx -l _ALO_results_file -e -o .\_ALO_WRITE_FOLDER
+
+Ejecuté el comando ANTERIOR en powershell (después de HACER LO de MÁS ABAJO) PARA CORRER EL TEST: 
+
+1) Me cambié a directorio: "C:\soporte\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin".
+2) Leer el siguiente enlace: "https://jmeter.apache.org/usermanual/build-web-test-plan.html" para mi primera
+prueba de "Building a Web Test Plan".
+3) Combinar la documentación anterior con la documentación de inicio para principiantes que aparece en
+archivo README.MD del directorio "C:\soporte\apache-jmeter-5.6.3\apache-jmeter-5.6.3".
+4) ejecutar JMETER.BAT del directorio BIN para cargar la versión de GUI y CREAR TEST PLAN.
+5) Crear TEST PLAN con las indicaciones del punto 2) y se salvó la configuración en el archivo "_ALO_Test_Plan.jmx".
+6) En PS se ejecutó test con comando ".\jmeter -n -t .\_ALO_Test_Plan.jmx -l _ALO_results_file -e -o .\_ALO_WRITE_FOLDER"
+y se guardarin resultados de la ejecución en carpeta  "_ALO_WRITE_FOLDER" (que no exitia antes de crear comando y debe
+ser un nombre que se usa para crear carpeta nueva con resultados como una subcarpeta del directorio BIN)
+7) Abrir archivo INDEX.HTML  de carpeta "_ALO_WRITE_FOLDER" con LOS RESULTADOS DEL TEST.
+
