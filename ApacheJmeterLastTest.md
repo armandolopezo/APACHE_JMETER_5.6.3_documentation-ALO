@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+6-5-2025
+alo
+TEST 9 :
+".\jmeter -n -t ".\test9.jmx" -l _ALO_results_file_9.jtl"
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+>>>>>>> 175bc912d8d76a51592f0747a200114533567e74
 19-4-2025
 alo
 
@@ -27,7 +37,11 @@ OJO - Se recomienda empezar a usar la carga de Apachejmeter para AKS con los sig
 3) loop count = 10
 4) same user on each iteration = active (checked)
 
+<<<<<<< HEAD
 TEST 7 - corrié bien :
+=======
+TEST 8  :
+>>>>>>> 175bc912d8d76a51592f0747a200114533567e74
 ".\jmeter -n -t ".\test8.jmx" -l _ALO_results_file_8 -e -o .\_ALO_WRITE_FOLDER_8"
 
 
